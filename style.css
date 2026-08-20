@@ -184,7 +184,7 @@ color:#999999;
 .scatter {
     position: absolute;
     font-size: 24px;
-    font-weight: bold;
+    font-weight: normal;
     transform: rotate(-6deg);
 }
 
