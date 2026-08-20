@@ -176,3 +176,27 @@ color:#999999;
   font-family: "Lucida Console", Lucida Console, "Tahoma", "Trebuchet MS", Arial;
   font-size:13px;
 }
+#main {
+    position: relative;
+    height: 500px; /* adjust as needed so there's room to scatter */
+}
+
+.scatter {
+    position: absolute;
+    font-size: 24px;
+    font-weight: bold;
+    transform: rotate(-6deg);
+}
+
+.scatter.red {
+    color: #e63946;
+}
+
+.scatter.yellow {
+    color: #f4d35e;
+}
+
+.scatter.green {
+    color: #2a9d8f;
+}
+
