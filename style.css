@@ -178,7 +178,7 @@ color:#999999;
 }
 #main {
     position: relative;
-    height: 500px;
+    min-height: 500px;
 }
 
 .scatter {
