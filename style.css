@@ -178,7 +178,7 @@ color:#999999;
 }
 #main {
     position: relative;
-    height: 500px; /* adjust as needed so there's room to scatter */
+    height: 500px;
 }
 
 .scatter {
@@ -199,10 +199,4 @@ color:#999999;
 .scatter.green {
     color: #2a9d8f;
 }
-#main {
-    position: relative;
-    height: 500px;
-    overflow: hidden; /* clips anything that still tries to escape */
-}
-
 
